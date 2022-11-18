@@ -1,0 +1,42 @@
+{
+    "recipe1": {
+      "id":1,
+      "title":"Lasagna",
+      "description":"lorem ipsum dolor sit amet, consectetur adip",
+      "ingredients":"lorem ipsum dolor sit amet, consectetur adip",
+      "procedure":"lorem ipsum dolor sit amet, consectetur adip",
+      "image":"url",
+      "categories":"maindish"
+    },
+
+    "recipe2": {
+        "id":2,
+        "title":"Salad",
+        "description":"lorem ipsum dolor sit amet, consectetur adip",
+        "ingredients":"lorem ipsum dolor sit amet, consectetur adip",
+        "procedure":"lorem ipsum dolor sit amet, consectetur adip",
+        "image":"url",
+        "categories":"veggy"
+      },
+
+      "recipe3": {
+        "id":3,
+        "title":"shrimps",
+        "description":"lorem ipsum dolor sit amet, consectetur adip",
+        "ingredients":"lorem ipsum dolor sit amet, consectetur adip",
+        "procedure":"lorem ipsum dolor sit amet, consectetur adip",
+        "image":"url",
+        "categories":"seefood"
+      },
+
+      "recipe4": {
+        "id":4,
+        "title":"cookie",
+        "description":"lorem ipsum dolor sit amet, consectetur adip",
+        "ingredients":"lorem ipsum dolor sit amet, consectetur adip",
+        "procedure":"lorem ipsum dolor sit amet, consectetur adip",
+        "image":"url",
+        "categories":"desserts"
+      },
+  
+  }
